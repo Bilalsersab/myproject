@@ -182,9 +182,6 @@ body{
     margin-bottom: 10px;
     color: white;
 }
-.floot .row p{
-    color: var(--section-color);
-}
 .floot .row .one{
     color: var(--green-color);
 }
@@ -193,7 +190,6 @@ body{
 }
 .floot .row ul li{
     text-decoration: none;
-    color: var(--section-color);
 }
 .floot .row .tow{
     color: var(--yellow-color);
